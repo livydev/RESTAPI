@@ -8,7 +8,7 @@ var zahirr = db.get("zahirr");
 	console.log('')  
 }
  
-var creator = "Rey"
+var creator = "Delvanichiiitai"
 var neoxr = "yntkts"
 var zeks = "administrator"
 var zeks2 = "apivinz"
@@ -227,7 +227,7 @@ Akhir Pesan Error
 
 //router.use(favicon(__path + "/views/favicon.ico"));
 
-const listkey = ["apirey", "APIKEY", "ditofficial"];
+const listkey = ["apidelnichi"];
 
 router.post("/apikey", async (req, res, next) => {
   const key = req.query.key;
