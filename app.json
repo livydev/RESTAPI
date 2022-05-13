@@ -6,5 +6,5 @@
   "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "games-wabot", "epic rpg"],
   "buildpacks": [
     {"url": "heroku/nodejs"},
-  ]
+  
 }
